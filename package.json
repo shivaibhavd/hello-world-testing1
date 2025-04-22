@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-testing1",
+  "name": "@arthur_morgan/hello-world-testing1",
   "version": "1.0.0",
   "description": "A simple Hello World module",
   "main": "dist/index.js",
